@@ -1,0 +1,9 @@
+[submodule "FastForwardMerge"]
+	path = FastForwardMerge
+	url = ./FastForwardMerge
+[submodule "MergeCommit"]
+	path = MergeCommit
+	url = ./MergeCommit
+[submodule "MergeWithConflicts"]
+	path = MergeWithConflicts
+	url = ./MergeWithConflicts
